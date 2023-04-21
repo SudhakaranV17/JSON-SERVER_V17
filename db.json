@@ -2,23 +2,19 @@
   "contacts": [
     {
       "id": 62,
-      "name": "Sudhakaran V",
-      "email": "romeov1@gmail.com"
+      "name": "User1",
+      "email": "user1@gmail.com"
     },
     {
       "id": 91,
-      "name": "dhakaran 123",
-      "email": "bridge202206@protonmail.com"
+      "name": "user2",
+      "email": "user2@gmail.com"
     },
     {
       "id": 94,
-      "name": "Sudhakaran V",
-      "email": "visusathya150@gmail.com"
+      "name": "user3",
+      "email": "user3@gmail.com"
     },
-    {
-      "id": 99,
-      "name": "pizzaBot",
-      "email": "bridge202206@protonmail.com"
-    }
+    
   ]
 }
